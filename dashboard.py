@@ -7,9 +7,9 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = html.Div(
     [
-        html.H1("Layout Prototype"),
+        html.H1("really awesome header"),
         """
-        This is just dummy text for now
+        maximum effort
         """,
     ]
 )
